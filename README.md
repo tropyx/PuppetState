@@ -1,9 +1,10 @@
 PuppetState
 ===========
-
 Standalone Puppet Configuration Editor
 
 Based on NetBeans, but as a standalone application for people who do not want/need NetBeans.
+
+![ScreenShot](https://raw.github.com/tropyx/Documentation/master/puppetstate-main.png)
 
 Using PuppetState
 ===========
@@ -45,5 +46,9 @@ Once you have cloned your repo will appear in the Projects window
 
 ![ScreenShot](https://raw.github.com/tropyx/Documentation/master/puppetstate-clone7.png)
 
+
+
+
+![ScreenShot](https://raw.github.com/tropyx/Documentation/master/puppetstate-centre.png)
 
 
