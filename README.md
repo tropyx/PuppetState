@@ -40,7 +40,7 @@ Once you have cloned your repo will appear in the Projects window
 
 <br>
 <h2>License details</h2>
-*Copyright (C) Tropyx Technology Pty Ltd and Michael Lindner March 11 2013*
+*Copyright (C) Tropyx Technology Pty Ltd and Michael Lindner March 10 2013*
 
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
