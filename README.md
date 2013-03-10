@@ -1,10 +1,17 @@
 PuppetState
 ===========
-Standalone Puppet Configuration Editor
+Standalone Puppet Configuration Editor Based on NetBeans.
 
-Based on NetBeans, but as a standalone application for people who do not want/need NetBeans.
+Manage your Puppet configs with Git, drag and drop code and variables from a palette, see the whole Puppet tree, create new manifests, project wide variable renaming (refactoring) all the benefits of an IDE in a simple to use program.
 
 ![ScreenShot](https://raw.github.com/tropyx/Documentation/master/puppetstate-main.png)
+
+Installing PuppetState
+============
+Download the installer for your operating system and run.  Simple!  You may have to change the Unix ones to executable depending on your system.
+
+![ScreenShot](https://raw.github.com/tropyx/Documentation/master/puppetstate-installer.png)
+
 
 Using PuppetState
 ===========
