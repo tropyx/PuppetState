@@ -1,6 +1,6 @@
 PuppetState
 ===========
-Standalone Puppet Configuration Editor Based on NetBeans.
+Standalone Puppet Configuration Editor.
 
 Manage your Puppet configs with Git, drag and drop code and variables from a palette, see the whole Puppet tree, create new manifests, project wide variable renaming (refactoring) all the benefits of an IDE in a simple to use program.
 
