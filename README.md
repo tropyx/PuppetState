@@ -37,6 +37,7 @@ Once you have cloned your repo will appear in the Projects window
 
 ![ScreenShot](https://raw.github.com/tropyx/Documentation/master/puppetstate-clone7.png)
 
+More Documentation available at https://github.com/tropyx/Documentation
 
 <br>
 <h2>License details</h2>
